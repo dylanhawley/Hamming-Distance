@@ -3,7 +3,7 @@ The Hamming distance is a metric do determine the number of differences between 
 
 # Examples
 The Hamming distance between:
-"karolin" and "kathrin" is 3.
-"karolin" and "kerstin" is 3.
-1011101 and 1001001 is 2.
-2173896 and 2233796 is 3.
+*"ka**rol**in" and "ka**thr**in" is 3.
+*"k**a**r**ol**in" and "k**e**r**st**in" is 3.
+*10**1**1**1**01 and 10**0**1**0**01 is 2.
+*2**17**3**8**96 and 2**23**3**7**96 is 3.
